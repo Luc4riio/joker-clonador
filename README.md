@@ -11,7 +11,7 @@ pkg install pip
 
 pip install requests
 
-git clone 
+git clone https://github.com/bydeathlxncer/joker-clonador
 
 cd joker-clonador
 
