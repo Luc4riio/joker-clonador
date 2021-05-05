@@ -9,7 +9,7 @@ pkg install python3
 
 pkg install pip
 
-pip install requirements
+pip install requests
 
 git clone 
 
